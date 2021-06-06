@@ -183,3 +183,8 @@ a:hover {
   float: right;
   margin-right: 1.875rem;
 }
+
+.contact-me {
+  width: 75%;
+  margin: auto;
+}
