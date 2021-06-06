@@ -67,8 +67,8 @@ a {
   left: 15%;
   bottom: 65%;*/
   position: relative;
-  right: 15%;
-  top:65%;
+  display: block;
+  left: 15%;
 }
 
 .top-container {
@@ -85,7 +85,7 @@ a {
 .programmer {
   font-family: 'PT Sans Narrow', sans-serif;
   margin-top: 0;
-  margin-bottom: 150px;
+  margin-bottom: 80px;
   color: #66BFBF ;
   font-weight: normal;
 }
@@ -131,7 +131,7 @@ p {
   margin: 0;
   padding: 25px 0;
   color: #ffffff; /*#EAF6F6;*/
-  font-size: 0.85rem;
+  font-size: 0.55rem;
 }
 
 .footer-link {
