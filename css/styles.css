@@ -63,9 +63,12 @@ a {
 }
 
 .bottom-cloud {
-  position: absolute;
+  /*position: absolute;
   left: 15%;
-  bottom: 65%;
+  bottom: 65%;*/
+  position: relative;
+  right: 15%;
+  top:65%;
 }
 
 .top-container {
@@ -185,6 +188,11 @@ a:hover {
 }
 
 .contact-me {
+  width: 75%;
+  margin: auto;
+}
+
+.profile {
   width: 75%;
   margin: auto;
 }
